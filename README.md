@@ -1,4 +1,5 @@
 # Digital-Marketing-Campaign<img width="880" height="495" alt="DIGITAL MARKETING CAMPAIGN" src="https://github.com/user-attachments/assets/5ea06611-f137-4034-99ca-6c1ef0904e58" />
+This project analyzes the campaigns for 1000 campaigns across various marketing channels in which key metrics like Product Name, Category, Ad Spend (INR), Impressions, Clicks, Conversions, Revenue (INR), ROI, and Campaign Date were used to analyze the datasets
 
 This dashboard provides a comprehensive overview of a Digital Marketing Campaign, highlighting key performance indicators (KPIs) and breakdowns by channel, product, and category.
 
